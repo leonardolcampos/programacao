@@ -1,0 +1,3 @@
+palavra chave 1 = eusouforte
+
+palavra chave 2 = persistência
